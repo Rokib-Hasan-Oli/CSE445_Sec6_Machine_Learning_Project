@@ -13,4 +13,4 @@ A machine learning model is trained to restore the images to their original qual
 - 1620018042 — Md. Sifur Rahman
 - 2211950642 — MD. Rokib Hasan Oli
 - 1831906642 — Kazi Eraj Al Minahi Turjo
-- 2011643042 — Atikur Rahman
+
