@@ -7,7 +7,7 @@
 ## Project Description
 This project focuses on image super-resolution using machine learning.  
 Low-resolution images are generated from high-resolution images using downsampling and blurring.  
-A machine learning model is trained to restore the images to their original quality
+A machine learning model is trained to restore the images to their original quality.
 
 ## Group Members
 - 1620018042 — Md. Sifur Rahman
